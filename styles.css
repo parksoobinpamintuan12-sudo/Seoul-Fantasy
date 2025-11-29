@@ -28,7 +28,7 @@ nav a {
 .hero-banner {
   position: relative;
   height: 350px;
-  background-image: url('images/seoul-food.jpg'); 
+  background-image: url('https://i.imgur.com/IJ702lw.jpeg'); 
   background-size: cover;
   background-position: center;
   display: flex;
@@ -125,3 +125,4 @@ footer {
     align-items: center;
   }
 }
+
